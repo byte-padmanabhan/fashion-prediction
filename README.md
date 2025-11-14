@@ -16,6 +16,7 @@ That’s **step 1**.
 ---
 
 ## 2. Simple ML (Linear/Logistic Regression)
+imagine you have a feature like age and you have the data whether that age group has insurances so as age insurances you have more chance of having insurances that relationship i linear so we have a general thing if age increases having insurances increase but there are two other factors weight and bais weight is like adjusting the steep at first its just random but it learns bais controls the baseline
 
 We create formulas like:
 
